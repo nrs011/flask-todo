@@ -9,7 +9,7 @@ Create project with virtual environment
 ```console
 $ mkdir myproject
 $ cd myproject
-$ python3 -m venv venv
+$ py -3 -m venv venv
 ```
 
 Activate it
